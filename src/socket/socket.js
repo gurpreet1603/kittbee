@@ -146,7 +146,7 @@ module.exports = (wss) => {
             };
           console.log(groupIdSend,'ggg');
           console.log(senderIdSend,'sss');
-          console.log(clients.get(groupIdSend),'tttt');
+          console.log(groupIdSend,'tttt');
 
 
           
